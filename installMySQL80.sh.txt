@@ -1,5 +1,3 @@
-SQL Tasks
-
 MYSQL_ROOT_PASSWORD="<%=cypher.read('secret/mysql_root')%>"
 
 apt-get remove apparmor -y
