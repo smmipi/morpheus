@@ -11,4 +11,5 @@ DEBIAN_FRONTEND=noninteractive
 echo "percona-server-server-8.0 percona-server-server-8.0/root-pass password $MYSQL_ROOT_PASSWORD" | debconf-set-selections
 echo "percona-server-server-8.0 percona-server-server-8.0/re-root-pass password $MYSQL_ROOT_PASSWORD" | debconf-set-selections
 
-apt install -y percona-server-server-8.0
+apt install -y mysql-client-core-8.0
+
