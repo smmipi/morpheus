@@ -1,4 +1,3 @@
-# morpheus
 My scripts to automate daily functions in my hybrid cloud
 # Hi, I'm Seeletso 👋
 - 💻 Cloud & DevOps Enthusiast | K8s,AWS,Azure,LPI 1&2, OCI, Certified
